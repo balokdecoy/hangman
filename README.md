@@ -1,12 +1,23 @@
+# HANGMAN
+
 This program is a Hangman game that runs in the console.
 The code was written by Johnnie Simpson with the code prompt
 derived from the Udemy course [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/)
 
-This program is free software covered by the GNU General Public License v3.0. Please see the LICENSE file in the code repository. 
+## INSTALLATION
 
-This program requires Python 3 to run.
+Ensure you have Python3 installed.
 
-To run the program, download the program directory or clone the repository to your machine.
+```
+python3 --version
+```
+
+Clone the repository to your machine.
+```
+git clone git@github.com:balokdecoy/hangman.git
+```
+
+## USAGE
 
 In a terminal window, change directory into the program directory where you saved the file.
 
@@ -19,3 +30,6 @@ Run the program by invoking the python3 command on the hangman.py file.
 ```
 python3 hangman.py
 ```
+
+## LICENSE
+[GPL](https://www.gnu.org/licenses/gpl-3.0.txt)

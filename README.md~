@@ -16,6 +16,6 @@ cd /home/yourusername/hangman/
 
 Run the program by invoking the python3 command on the hangman.py file.
 
-``
+```
 python3 hangman.py
 ```
